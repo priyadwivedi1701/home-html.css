@@ -1,0 +1,58 @@
+*{
+    background-color: rgb(172, 172, 133);
+}
+#home{
+    font-family: brush script mt;
+    text-align: center;
+    font-size:80px;
+    background-color:rgb(189, 149, 136);
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+
+}
+#subhead{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(159, 199, 199);
+    margin-block-start: 0em;
+    text-transform: capitalize;
+    text-decoration: underline;
+    
+}
+#select{
+    font-size: xx-large;
+}
+#raj{
+    font-size: x-large;
+}
+#govindpuram{
+    font-size: x-large;
+}
+#sanjay{
+    font-size:x-large;
+}
+.center{
+    position:absolute;
+    top: 28%;
+  left: 50%;
+  transform: translate(-50%, -0);
+  font-size:50px ;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold; 
+  background-color: grey;
+  text-decoration: rgb(221, 224, 227);
+  
+}
+.parent{
+    display: flex;
+    font-size:large;
+}
+.raj1{
+    display:flex;
+    font-size:large;
+}
+.sanjay{
+    display:flex;
+    font-size: large;
+}
